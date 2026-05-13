@@ -1,1 +1,0 @@
-A Rust client for the WaveToken (WAVE) ERC-20 governance contract powering the Drips Wave streaming protocol. Built with alloy, it provides typed ABI bindings, read/write contract calls, and a wallet-backed provider — serving as the token layer for Drips Network `setStreams` value streaming.
